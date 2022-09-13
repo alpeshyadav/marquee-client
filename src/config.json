@@ -1,0 +1,5 @@
+{
+    "SEARCH_URL": "http://localhost:3001/search",
+    "SAVE_URL": "http://localhost:3001/save",
+    "LIST_URL": "http://localhost:3001/list"
+}
